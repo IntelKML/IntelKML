@@ -1,5 +1,5 @@
 {
-  "description": "Adversary Tactics",
+  "description": "Adversary Capabilites",
   "icon": "user-secret",
   "kill_chain_order": {
     "Capabilites": [
