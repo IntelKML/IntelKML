@@ -1,0 +1,45 @@
+{
+  "attributes": {
+    "first_name": {
+      "description": "Channel name",
+      "misp-attribute": "text",
+      "ui-priority": 1
+    },
+    "id": {
+      "description": "Telegram user identifier",
+      "misp-attribute": "text",
+      "ui-priority": 1
+    },
+    "last_name": {
+      "description": "Telegram Link",
+      "misp-attribute": "text",
+      "ui-priority": 1
+    },
+    "phone": {
+      "description": "Phone associated with the telegram user",
+      "misp-attribute": "text",
+      "multiple": true,
+      "ui-priority": 1
+    },
+    "username": {
+      "description": "Telegram username",
+      "misp-attribute": "text",
+      "ui-priority": 1
+    },
+    "verified": {
+      "description": "Verified",
+      "misp-attribute": "text",
+      "ui-priority": 1
+    }
+  },
+  "description": "Information related to a telegram account",
+  "meta-category": "IntelKML",
+  "name": "telegram-Channel",
+  "requiredOneOf": [
+    "id",
+    "phone",
+    "username"
+  ],
+  "uuid": "f7aa4775-ac80-4911-af71-3f7e641e01d6",
+  "version": 2
+}

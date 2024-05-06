@@ -1,0 +1,19 @@
+{
+  "description": "Adversary Tactics",
+  "icon": "user-secret",
+  "kill_chain_order": {
+    "Capabilites": [
+      "Detection",
+      "Logistics",
+      "Entry Tools",
+      "Lethality",
+      "Non-Lethal",
+      "Protection"
+    ]
+    },
+  "name": "Adversary Capabilites",
+  "namespace": "IntelKML",
+  "type": "Adversary Capabilites",
+  "uuid": "6cb14b7b-17d9-4cd6-a0db-4ed63e0f2006",
+  "version": 1
+}

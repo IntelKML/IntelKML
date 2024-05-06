@@ -1,0 +1,50 @@
+{
+  "attributes": {
+    "archive": {
+      "description": "Archive of the KML (Internet Archive, Archive.is, etc).",
+      "misp-attribute": "link",
+      "multiple": true,
+      "ui-priority": 1
+    },
+    "attachment": {
+      "description": "The KML file.",
+      "misp-attribute": "attachment",
+      "ui-priority": 1
+    },
+    "filename": {
+      "description": "The KML filename.",
+      "misp-attribute": "filename",
+      "ui-priority": 1
+    },
+    "image-text": {
+      "description": "Raw text of KML",
+      "misp-attribute": "text",
+      "ui-priority": 1
+    },
+    "link": {
+      "description": "Original link into the KML (Supposed harmless)",
+      "misp-attribute": "link",
+      "ui-priority": 1
+    },
+    "url": {
+      "description": "Original URL location of the KML (potentially malicious)",
+      "misp-attribute": "url",
+      "ui-priority": 1
+    },
+    "username": {
+      "description": "Username who posted the KML.",
+      "misp-attribute": "text",
+      "ui-priority": 0
+    }
+  },
+  "description": "Object describing a Live updating KML file for Geospatial Situational Awareness.",
+  "meta-category": "IntelKML",
+  "name": "Network Linked KML File",
+  "requiredOneOf": [
+    "attachment",
+    "archive",
+    "link"
+  ],
+  "uuid": "57f67e67-8ed3-4262-a5f0-f73dd6edf283",
+  "version": 1
+}

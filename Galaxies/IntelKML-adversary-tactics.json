@@ -1,0 +1,20 @@
+{
+  "description": "Adversary Tactics",
+  "icon": "user-secret",
+  "kill_chain_order": {
+    "Tactics": [
+      "Reconnaissance",
+      "Resource Development",
+      "Initiating Contact",
+      "Defense Evasion",
+      "Communications",
+      "Impact",
+      "Follow on Actions"
+    ]
+    },
+  "name": "Adversary Tactics",
+  "namespace": "IntelKML",
+  "type": "Adversary Tactics",
+  "uuid": "283bdaf4-b204-461e-9a16-de0d68919622",
+  "version": 1
+}

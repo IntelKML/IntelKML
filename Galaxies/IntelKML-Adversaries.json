@@ -1,0 +1,9 @@
+{
+  "description": "Adversary Groups",
+  "icon": "user-secret",
+  "name": "Adversary Groups",
+  "namespace": "IntelKML",
+  "type": "Adversary Groups",
+  "uuid": "8bcec7cd-fdd3-4aed-8436-2b5e4e3f70fa",
+  "version": 1
+}
