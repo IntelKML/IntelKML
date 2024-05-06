@@ -6,7 +6,7 @@
   "description": "Attacker Tactics",
   "name": "Attacker Tactics",
   "source": "Internal",
-  "type": "Adversary Tactics",
+  "type": "Adversary Groups",
   "uuid": "fa9f1387-9303-4a25-b155-d6199a7c2d9a",
   "values": [
     {
