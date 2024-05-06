@@ -24,7 +24,7 @@
           "Saeder Krupps"
         ]                   
       },
-      "uuid": "43e1b900-5a03-11ea-9ad1-080027cbfd66",
+      "uuid": "7dfa07df-0ed9-4b74-a714-da3cd5e12343",
       "value": "Night Vision"
     },
     {
@@ -41,7 +41,7 @@
           "ESUS"
         ]
        },
-       "uuid": "7aad2dd4-5a03-11ea-ad69-080027cbfd66",
+       "uuid": "b1161d57-dad7-480b-9eee-6e6a430a17fc",
        "value": "Thermal Observation Devices"
     },
     {
@@ -58,7 +58,7 @@
           "ESUS"
         ]                   
       },
-      "uuid": "7aad2dd4-5a03-11ea-ad69-080027cbfd66",
+      "uuid": "cb581f82-ab56-4be6-9fa8-4e6441025181",
       "value": "Drones"
     },
     {
@@ -77,7 +77,7 @@
           "Tan Tien"
         ]                   
       },
-      "uuid": "50c0d622-5c67-11ea-bd4b-0800275bbff6",
+      "uuid": "5f3ecce5-86ec-4159-89a5-b181bbc56a03",
       "value": "Suriveillance Cameras"
     },
     {
@@ -96,7 +96,7 @@
             "bio" 
         ]
       },
-      "uuid": "293e7e5c-51a8-411f-9b47-d52ed62d4b78",
+      "uuid": "f159d8a5-7017-4312-afac-e5820e23e415",
       "value": "Magnified Optics"
     },
         {
@@ -117,7 +117,7 @@
           "cyberlimbs"
         ]                   
       },
-      "uuid": "7e962290-cba7-49ad-95c2-115575c8a9d2",
+      "uuid": "fe9e5d4b-d3dc-41c5-837e-e448b8a9c553",
       "value": "Unmarked Vehicles"
     },
     {
@@ -133,7 +133,7 @@
           "biocosmetics"
         ]                   
       },
-      "uuid": "c899564c-bfe4-460f-a2ed-aae98e1355a3",
+      "uuid": "fce16841-ce0f-40ac-8447-81258ff6fb33",
       "value": "Armored Vehicles"
     },
     {
@@ -148,7 +148,7 @@
           "intrusion countermeasrures"          
         ]                   
       },
-      "uuid": "16c49ba4-8a79-4f67-a98a-07cdc08f8a2d",
+      "uuid": "5b28d57b-7eee-49b6-abfc-ff90d02b2b3f",
       "value": "Logistics Vehicles"
     },    
     {
@@ -165,7 +165,7 @@
           "Italy"
         ]                   
       },
-      "uuid": "8e745c22-9b14-4334-887a-0000eda58f75",
+      "uuid": "1870cb27-2fa4-4e1b-bfed-f3bbda401b0d",
       "value": "Tactical Operations Center"
     },
     {
@@ -180,7 +180,7 @@
           "Thailand"          
         ]                   
       },
-      "uuid": "95d4ff78-42f8-4fe8-bb63-af2c7e500ec8",
+      "uuid": "d10d40bb-43b5-482c-880c-83add0014272",
       "value": "Lock Picks"
     },
     {
@@ -194,7 +194,7 @@
           "kazakhstan"                    
         ]                   
       },
-      "uuid": "87a3ac08-6ffc-45eb-826e-e8e0af392563",
+      "uuid": "ee6566a7-80bb-4ab7-9c8c-f4f4596ec789",
       "value": "Ballistic Breaching Tools"
     },
     {
@@ -209,7 +209,7 @@
           "Algeria"          
         ]                   
       },
-      "uuid": "aba705b7-fcb4-4bf4-81d4-b896314f53ed",
+      "uuid": "49c45de0-b743-471b-885f-169f41a88fb3",
       "value": "Explosive Breaching"
     },
     {
@@ -223,7 +223,7 @@
           "Polynesia"
         ]                   
       },
-      "uuid": "ae28830b-b90f-48d9-8b89-acda0864ff4e",
+      "uuid": "4e405c08-f6ea-4686-83ba-41dbe6613701",
       "value": "Window Rake"
     },
     {
@@ -239,7 +239,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "2516a036-4445-43fb-b58d-6863af6d6176",
       "value": "Armored Breaching Vehicle"
     },
 	{
@@ -255,7 +255,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "0ce063ec-73e3-43ba-ba8c-1df537ed78ce",
       "value": "Melee Weapons"
     },
 	{
@@ -271,7 +271,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "78a977ad-220d-44af-840c-aa81ffc7b525",
       "value": "Firearms"
     },
 	{
@@ -287,7 +287,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "7d1fc3bd-fa85-4202-ace2-4caae480c064",
       "value": "Indirect Artillery"
     },
 	{
@@ -303,7 +303,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "93503809-5d84-4913-b8df-cbf79c759aee",
       "value": "Explosives"
     },
 	{
@@ -319,7 +319,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "327a4aff-31ea-4858-b2d5-9a47f1b951aa",
       "value": "Chemical Irritants"
     },
 	{
@@ -335,7 +335,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "0b34104c-e448-4b8f-8fc2-24ac8dcc3f95",
       "value": "Noise Flash Distraction Devices"
     },
 	{
@@ -351,7 +351,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "9daccad3-8779-4a6d-b43a-3ab6bc5e2b5a",
       "value": "Restraints"
     },
 	{
@@ -367,7 +367,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "f0f8aa3a-0181-4400-9a5c-8be98726061d",
       "value": "Individual First Aid Kit"
     },
 	{
@@ -383,7 +383,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "0401aba4-dd21-4383-8d83-e58366646346",
       "value": "Body Armor"
     },
 	{
@@ -399,7 +399,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "503aa66b-eecf-4eca-bc69-5f0fe21d34c2",
       "value": "GasMasks"
     }
   ],
