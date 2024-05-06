@@ -7,7 +7,7 @@
   "name": "Attacker Tactics",
   "source": "Internal",
   "type": "Adversary Tactics",
-  "uuid": "c4fc98f7-c643-47eb-a4ad-0b4eaa99d990",
+  "uuid": "fa9f1387-9303-4a25-b155-d6199a7c2d9a",
   "values": [
     {
       "description": "extraterritorial corporation and seating at the top-10 council.",
@@ -21,7 +21,7 @@
           "Saeder Krupps"
         ]                   
       },
-      "uuid": "43e1b900-5a03-11ea-9ad1-080027cbfd66",
+      "uuid": "df68a37e-ce7d-475a-a77d-c26fe8fbfe2f",
       "value": "Overt Reconnaissance"
     },
     {
@@ -35,7 +35,7 @@
           "ESUS"
         ]
        },
-       "uuid": "7aad2dd4-5a03-11ea-ad69-080027cbfd66",
+       "uuid": "6f3c3d81-2352-4799-bccc-fd702668a55d",
        "value": "OSINT Discovery"
     },
     {
@@ -49,7 +49,7 @@
           "ESUS"
         ]                   
       },
-      "uuid": "7aad2dd4-5a03-11ea-ad69-080027cbfd66",
+      "uuid": "2602d045-fd8d-4a6a-991c-371f17b57b6a",
       "value": "Undercover Reconnaissance"
     },
     {
@@ -65,7 +65,7 @@
           "Tan Tien"
         ]                   
       },
-      "uuid": "50c0d622-5c67-11ea-bd4b-0800275bbff6",
+      "uuid": "93ea2754-5352-4a80-8fdd-4347dfe30202",
       "value": "Stalking"
     },
     {
@@ -81,7 +81,7 @@
             "bio" 
         ]
       },
-      "uuid": "293e7e5c-51a8-411f-9b47-d52ed62d4b78",
+      "uuid": "1a39e8c4-7a9d-45b7-937c-8aa35d8b5ab1",
       "value": "Social Media Investigations"
     },
         {
@@ -99,7 +99,7 @@
           "cyberlimbs"
         ]                   
       },
-      "uuid": "7e962290-cba7-49ad-95c2-115575c8a9d2",
+      "uuid": "07ad92ea-3b2f-4243-bb62-1dba88efd24b",
       "value": "Stage Infrastructure"
     },
     {
@@ -112,7 +112,7 @@
           "biocosmetics"
         ]                   
       },
-      "uuid": "c899564c-bfe4-460f-a2ed-aae98e1355a3",
+      "uuid": "2d54676e-c81b-4124-a6b4-ebf93f2172d7",
       "value": "Plan"
     },
     {
@@ -124,7 +124,7 @@
           "intrusion countermeasrures"          
         ]                   
       },
-      "uuid": "16c49ba4-8a79-4f67-a98a-07cdc08f8a2d",
+      "uuid": "044caecd-51b5-4be2-a4b1-0a57fb223b43",
       "value": "Rally Individuals"
     },    
     {
@@ -138,7 +138,7 @@
           "Italy"
         ]                   
       },
-      "uuid": "8e745c22-9b14-4334-887a-0000eda58f75",
+      "uuid": "cf97d069-605e-46c7-92ab-f8e139f66692",
       "value": "Train"
     },
     {
@@ -150,7 +150,7 @@
           "Thailand"          
         ]                   
       },
-      "uuid": "95d4ff78-42f8-4fe8-bb63-af2c7e500ec8",
+      "uuid": "fe5afa41-f66a-4611-ad89-5d07023c8147,
       "value": "Procure Resources"
     },
     {
@@ -161,7 +161,7 @@
           "kazakhstan"                    
         ]                   
       },
-      "uuid": "87a3ac08-6ffc-45eb-826e-e8e0af392563",
+      "uuid": "f00b78ef-918c-409a-a627-026286fa2607",
       "value": "Seize Key Terrain"
     },
     {
@@ -173,7 +173,7 @@
           "Algeria"          
         ]                   
       },
-      "uuid": "aba705b7-fcb4-4bf4-81d4-b896314f53ed",
+      "uuid": "b8b202c1-fc44-43f0-9f51-a34d6b05343e",
       "value": "Move to Contact"
     },
     {
@@ -184,7 +184,7 @@
           "Polynesia"
         ]                   
       },
-      "uuid": "ae28830b-b90f-48d9-8b89-acda0864ff4e",
+      "uuid": "aed54714-b67d-4e25-b246-be76c48d8ede",
       "value": "Reconnaissance in Force"
     },
     {
@@ -210,7 +210,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "2abcc347-22f3-4501-9778-bc1ef37df797",
       "value": "Assault"
     },
 	{
@@ -223,7 +223,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "7ad9fd69-b61e-4ad1-b8b5-92147972b0f1",
       "value": "Prevent Identification"
     },
 	{
@@ -236,7 +236,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "3892f5a9-d3a4-40ea-a1ea-9496295ad3a1",
       "value": "No Knock Raids"
     },
 	{
@@ -249,7 +249,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "18910f5e-7c31-4885-bc71-a34f43b6360f",
       "value": "Operate in Denied Enviornments"
     },
 	{
@@ -262,7 +262,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "f59e26f9-6723-4228-b055-2aecdb9447b8",
       "value": "Operate at Night"
     },
 	{
@@ -275,7 +275,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "a4b5266c-58a1-413e-ac27-b11f72819fd4",
       "value": "Remote Operations"
     },
 	{
@@ -288,7 +288,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "57db7e45-7d6b-4c63-b6e7-4014468d75c1",
       "value": "Analog Radio"
     },
 	{
@@ -301,7 +301,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "b4aeb67a-f691-44cc-962a-cd27eec5135f",
       "value": "Digital Radio"
     },
 	{
@@ -314,7 +314,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "f23d220f-1858-4dca-be47-89d1c3e96c56",
       "value": "Encrypted Radio"
     },
 	{
@@ -327,7 +327,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "753df622-1807-4fe7-9cb2-1d5ee0ce0be8",
       "value": "Text and Phone Calls"
     },
 	{
@@ -340,7 +340,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "2609ede8-70ff-4224-8ad5-1ebe97c019a4",
       "value": "Open Social Media Groups"
     },
 	{
@@ -353,7 +353,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "f62f9c3d-cfa5-426c-a96c-0a147b96a83a",
       "value": "Private Social Media Groups"
     },
 	{
@@ -366,7 +366,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "1838d18a-d0cb-49b7-bf54-0fe756e76b94",
       "value": "Verbal Communications"
     },
 	{
@@ -379,7 +379,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "d9437ce5-a1f4-432c-82e0-255f25bde9d7",
       "value": "Non Verbal Communications"
     },
 	{
@@ -392,7 +392,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "32512b8c-ca91-41ec-9108-7f946a5c4db0",
       "value": "Reputational Impact"
     },
 	{
@@ -405,7 +405,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "ee586e01-fd34-40c5-a8ba-2fafde8a09e0",
       "value": "Physical Violence"
     },
 	{
@@ -418,7 +418,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "0baa905b-4975-468f-b20f-564a73ed53fc",
       "value": "Arrest"
     },
 	{
@@ -431,7 +431,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "6ea1a856-0130-4eec-9677-8e86dd53f6a6",
       "value": "Property Damage"
     },
 	{
@@ -447,7 +447,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "226b1536-f17e-4e23-a886-1da8c068d909",
       "value": "Ad-Hoc Withdrawl"
     },
 	{
@@ -463,7 +463,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "4516aace-e218-4ba6-a446-f6405e2642de",
       "value": "Planned Withdrawl"
     },
 	{
@@ -479,7 +479,7 @@
           "AZtlan"          
         ]                   
       },
-      "uuid": "d41c6222-4d10-43e9-9a8e-47d586eaf0e7",
+      "uuid": "e6a92940-9db2-4bcf-9641-d71c0a84044b",
       "value": "Consolidate Gains"
     }
   ],
