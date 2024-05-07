@@ -3,400 +3,376 @@
     "IntelKML"
   ],
   "category": "IntelKML",
-  "description": "Attacker Capabilites",
+  "description": "A Matrix of Physcial Attacker Techniques Broken into broad categories.",
   "name": "Attacker Capabilites",
   "source": "Internal",
   "type": "Adversary Capabilities",
   "uuid": "283bdaf4-b204-461e-9a16-de0d68919622",
   "values": [
     {
-      "description": "extraterritorial corporation and seating at the top-10 council.",
+      "description": "The use of night observation devices and image intensifying tubes to enable adversaries increased detection at night.  The devices might also utilize digital night vision, in addition to anologue intensifier tubes.",
       "meta": {
       "kill_chain": [
           "Capabilites:Detection"
         ],
-        "Corporate council seat": "Yes",
         "examples": [
-          "Renraku",
-          "Shiawase",
-          "Aztechnology",
-          "Ares Macrotechnologies",
-          "Saeder Krupps"
+          "PVS-14s",
+          "PVS31s",
+          "Aurora Digital Camera",
+          "Foxier Low Light Cameras",
+          "Security Cameras"
         ]                   
       },
       "uuid": "7dfa07df-0ed9-4b74-a714-da3cd5e12343",
       "value": "Night Vision"
     },
     {
-      "description": "only extraterritorial compagnies.",
+      "description": "Thermal devices to allow adversaries to detect black body radiation and enhance detections in daylight and at night.",
       "meta": {
       "kill_chain": [
           "Capabilites:Detection"
         ],
-        "Corporate council seat": "No",
         "examples": [
-          "Shibata",
-          "Monobe",
-          "Zeta Impchem",
-          "ESUS"
+          "ECOTI",
+          "Thermal Monocular",
+          "Thermal Weapon Sights",
+          "Thermal Fusion Products."
         ]
        },
        "uuid": "b1161d57-dad7-480b-9eee-6e6a430a17fc",
        "value": "Thermal Observation Devices"
     },
     {
-      "description": "only extraterritorial compagnies.",
+      "description": "The use of remotely operated electronic devices which have cameras and transmit back visual information.  Drones may also have lethal and non-lethal payloads, and are not exclusively flying craft.",
       "meta": {
       "kill_chain": [
           "Capabilites:Detection"
         ],
-        "Corporate council seat": "No",
         "examples": [
-          "Shibata",
-          "Monobe",
-          "Zeta Impchem",          
-          "ESUS"
+          "DJI Maverick",
+          "MQ-1 Predator",
+          "Throwbot",          
+          "Black Hornet"
         ]                   
       },
       "uuid": "cb581f82-ab56-4be6-9fa8-4e6441025181",
       "value": "Drones"
     },
     {
-      "description": "nation-scale corporation.",
+      "description": "Suriveillance Cameras are both digital and analogue recording and monitoring devices to allow adversaries to maintian situational awareness.",
       "meta": {
       "kill_chain": [
           "Capabilites:Detection"
         ],
-        "Corporate council seat": "No",
         "examples": [
-          "Genom",
-          "KSAF",
-          "Seretech",
-          "Infocore",          
-          "MicroDek (ex-Microsoft)",
-          "Tan Tien"
+          "Ring Camera",
+          "FLIR"
         ]                   
       },
       "uuid": "5f3ecce5-86ec-4159-89a5-b181bbc56a03",
       "value": "Suriveillance Cameras"
     },
     {
-      "description": "energy sector: exploitation, , refining, selling",
+      "description": "Magnified Optics allow adversaries to observe from a distance.",
       "meta": {
         "kill_chain": [
           "Capabilites:Detection"
         ],      
         "examples": [
-          "Saeder Krupps"      
+	  "Telescope",
+          "Binoculars"      
         ],
-        "subsectors": [
-            "petroleum",
-            "electricity",
-            "gas",
-            "bio" 
-        ]
       },
       "uuid": "f159d8a5-7017-4312-afac-e5820e23e415",
       "value": "Magnified Optics"
     },
         {
-      "description": "cybertechnology sector: manufacturing, selling and implanting modifications.",
+      "description": "Unmarked Vehicles allow Adversaries to have rapid mobility, and increased logistics without significantly increasing their visual footprint.  Unmarked Vehicles can also allow for actors to anonymize some of their activities.",
       "meta": {
       "kill_chain": [
           "Capabilites:Logistics"
         ],      
-        "Delta clinic (for implanting)": [
-        "Yes",
-        "No"
-        ],
         "examples": [
-          "headware",
-          "bodyware",
-          "eyeware",
-          "earware",          
-          "cyberlimbs"
+          "Unmarked Police Vehicles",
+          "Rental Cars",
+	  "Personal Vehicles",
+          "Stolen Vehilces"
         ]                   
       },
       "uuid": "fe9e5d4b-d3dc-41c5-837e-e448b8a9c553",
       "value": "Unmarked Vehicles"
     },
     {
-      "description": "Biotechnology: bioware, genetics, etc",
+      "description": "Armored Vehicles provide ballistic Protection, as such adversaries are able to utilize them to manuever in the face of the enemy, giving more freedomn of movement.  Armored Vehicles are most commonly very apparently armored, however there are covert armored vehicles.",
       "meta": {        
       "kill_chain": [
           "Capabilites:Logistics"
         ],      
         "examples": [
-          "bioware",
-          "genetics",
-          "biodrones",
-          "biocosmetics"
+          "Tank",
+          "APC",
+          "Bearcat",
+          "Armored Cars"
         ]                   
       },
       "uuid": "fce16841-ce0f-40ac-8447-81258ff6fb33",
       "value": "Armored Vehicles"
     },
     {
-      "description": "IT: softwares, hardware, cybersec",
+      "description": "Logistics Vehicles are vehicles that have been optimised for the managment of logistics.",
       "meta": {       
         "kill_chain": [
           "Capabilites:Logistics"
         ],            
         "examples": [
-          "software dev",
-          "hardware manufacturing",
-          "intrusion countermeasrures"          
+          "Flat Bed Truck",
+          "Water Truck",
+          "Fuel Truck"          
         ]                   
       },
       "uuid": "5b28d57b-7eee-49b6-abfc-ff90d02b2b3f",
       "value": "Logistics Vehicles"
     },    
     {
-      "description": "Europe",
+      "description": "A Tactical Operations Center is a headquarters function that allows for the consolidation of information into actionable intelligence.  While traditionally though of as a miltiary structure, many emergency and crisis managment teams will form command centers that operate similarly.",
       "meta": {    
         "kill_chain": [
           "Capabilites:Logistics"
         ],            
         "examples": [
-          "France",
-          "Belgium",
-          "Luxembourg",
-          "Germany",
-          "Italy"
+          "Tactical Operations Center",
+          "Command Center",
+          "Dispatch",
+          "Tent TOC",
+          "Scene Commander"
         ]                   
       },
       "uuid": "1870cb27-2fa4-4e1b-bfed-f3bbda401b0d",
       "value": "Tactical Operations Center"
     },
     {
-      "description": "Asia",
+      "description": "Lockpicks are a small and discrete tool that allow Adversaries to defeat many kinds of entry control mechanisms.",
       "meta": {        
       "kill_chain": [
           "Capabilites:Entry Tools"
         ],            
         "examples": [
-          "China",
-          "Japan",
-          "Thailand"          
+          "Rakes",
+          "Picks",
+	  "Leshi Picks",
+          "Pick Guns",
+	  "Bump Keys"
         ]                   
       },
       "uuid": "d10d40bb-43b5-482c-880c-83add0014272",
       "value": "Lock Picks"
     },
     {
-      "description": "Russia and former USSR",
+      "description": "Ballistic Breaching tools utilize firearms in compromising the structural integrity of an entry control mechanism.",
       "meta": {       
         "kill_chain": [
           "Capabilites:Entry Tools"
         ],                  
         "examples": [
-          "Russia",
-          "kazakhstan"                    
+          "Breaching Shotgun",
+          "Breaching Tear Gas Rounds"                    
         ]                   
       },
       "uuid": "ee6566a7-80bb-4ab7-9c8c-f4f4596ec789",
       "value": "Ballistic Breaching Tools"
     },
     {
-      "description": "Africa",
+      "description": "Explosive Breaching is a capability in which adversaries utilize explosives to defeat an entry control mechanism.",
       "meta": {   
         "kill_chain": [
           "Capabilites:Entry Tools"
         ],                  
         "examples": [
-          "Nigeria",
-          "Malia",
-          "Algeria"          
+          "Door Charge",
+          "Wall Charge",
+          "APOBS"          
         ]                   
       },
       "uuid": "49c45de0-b743-471b-885f-169f41a88fb3",
       "value": "Explosive Breaching"
     },
     {
-      "description": "Oceania",
+      "description": "A window rake is a tool an adversary can utilize to compromise the security of a window to create an unexpected entry point.  They will be used to break the window and then rake out the remaining glass.",
       "meta": {
         "kill_chain": [
           "Capabilites:Entry Tools"
         ],                  
         "examples": [
-          "Asutralia",
-          "Polynesia"
+          "Window Rake"
         ]                   
       },
       "uuid": "4e405c08-f6ea-4686-83ba-41dbe6613701",
       "value": "Window Rake"
     },
     {
-      "description": "America",
+      "description": "Adversaries can utilize Armored vehicles to assist in the breaching of extremely high risk situations, either by providing mobile cover while approaching, or to physically destroy access control mechanisms.",
       "meta": {
         "kill_chain": [
           "Capabilites:Entry Tools"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "Waco Seige",     
         ]                   
       },
       "uuid": "2516a036-4445-43fb-b58d-6863af6d6176",
       "value": "Armored Breaching Vehicle"
     },
 	{
-      "description": "America",
+      "description": "Melee weapons allow for Adversaries to engage in close range physical altercations.  There are purpose built Melee Weapons, as well as readily improvised ones, they all suck to get hit with.",
       "meta": {
         "kill_chain": [
           "Capabilites:Lethality"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "Bats",
+          "Batons",
+          "Bricks",
+	  "Fists",
+          "Knives"          
         ]                   
       },
       "uuid": "0ce063ec-73e3-43ba-ba8c-1df537ed78ce",
       "value": "Melee Weapons"
     },
 	{
-      "description": "America",
+      "description": "Firearms have become the primary way of utilizing lethal force at distance.",
       "meta": {
         "kill_chain": [
           "Capabilites:Lethality"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "Glock",
+          "M4 Carbine",
+          "Musket",
+          "Hipoint"          
         ]                   
       },
       "uuid": "78a977ad-220d-44af-840c-aa81ffc7b525",
       "value": "Firearms"
     },
 	{
-      "description": "America",
+      "description": "Indirect Artillery allows for Adversaries to strike positions without needing to directly expose themselves.  ",
       "meta": {
         "kill_chain": [
           "Capabilites:Lethality"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "Mortars",
+          "Rockets",
+          "Hoitzers",
+          "Loitering Munitions"          
         ]                   
       },
       "uuid": "7d1fc3bd-fa85-4202-ace2-4caae480c064",
       "value": "Indirect Artillery"
     },
 	{
-      "description": "America",
+      "description": "Explosives allow adversaries to create either through pressure or through shrapnel area affect weapons that have a situationally much higher chance of lethality than firearms.",
       "meta": {
         "kill_chain": [
           "Capabilites:Lethality"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "M67 Fragmentation Grenade",
+          "Claymore",
+          "Landmine",
+          "Pipebombs"          
         ]                   
       },
       "uuid": "93503809-5d84-4913-b8df-cbf79c759aee",
       "value": "Explosives"
     },
 	{
-      "description": "America",
+      "description": "Chemical irritants allow for Adversaries to attempt to disperse a crowd by utilizing gas or fine powder that will irritiate or debilitate people without adequate Personal Protective Equipment.",
       "meta": {
         "kill_chain": [
           "Capabilites:Non-Lethal"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "CS Gas",
+          "Pepper Spray",
+          "Bear Mace",
+          "Tear Gas"          
         ]                   
       },
       "uuid": "327a4aff-31ea-4858-b2d5-9a47f1b951aa",
       "value": "Chemical Irritants"
     },
 	{
-      "description": "America",
+      "description": "Noise Flash Distraction Devices or Flashbangs allow for Adversaries to temporarily disable their targets and attempt to gain the momentum or intiative in CQB.",
       "meta": {
         "kill_chain": [
           "Capabilites:Non-Lethal"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "Flashbangs",
+          "9 Bangs",
+          "Fireworks",
+          "Electronic Flashbangs"          
         ]                   
       },
       "uuid": "0b34104c-e448-4b8f-8fc2-24ac8dcc3f95",
       "value": "Noise Flash Distraction Devices"
     },
 	{
-      "description": "America",
+      "description": "Restraints allow for Adversaries to reduce targets capability to physically manipulate their enviornment and increases the adversaries control over a situation.",
       "meta": {
         "kill_chain": [
           "Capabilites:Non-Lethal"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "ZipCuffs",
+          "Handcuffs",
+          "Rope",
+          "Ductape"          
         ]                   
       },
       "uuid": "9daccad3-8779-4a6d-b43a-3ab6bc5e2b5a",
       "value": "Restraints"
     },
 	{
-      "description": "America",
+      "description": "an Indivual First Aid Kit is the basics nessesities of life saving as well as stabalizing wounds.  Adversaries who posess these are more likely to be resiliant to physical injury.",
       "meta": {
         "kill_chain": [
           "Capabilites:Medical"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "IFAK"          
         ]                   
       },
       "uuid": "f0f8aa3a-0181-4400-9a5c-8be98726061d",
       "value": "Individual First Aid Kit"
     },
 	{
-      "description": "America",
+      "description": "Body armor is body worn protective equintment it is designed to protect from various threats based on the needs of the user.",
       "meta": {
         "kill_chain": [
           "Capabilites:Protection"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "Stab Resistant Vest",
+          "Level 4 Ballistic Plates",
+          "Trauma Pads",
+          "Blast Suit"          
         ]                   
       },
       "uuid": "0401aba4-dd21-4383-8d83-e58366646346",
       "value": "Body Armor"
     },
 	{
-      "description": "America",
+      "description": "Gasmaks are protective equipment designed to protect the respitory system and eyes from harmful gasses, and particulates.",
       "meta": {
         "kill_chain": [
           "Capabilites:Protection"
         ],            
         "examples": [
-          "UCAS",
-          "CAS",
-          "Pueblo Corporate COuncil",
-          "AZtlan"          
+          "N95 Mask",
+          "C50 AirPurifying Respirator"         
         ]                   
       },
       "uuid": "503aa66b-eecf-4eca-bc69-5f0fe21d34c2",
