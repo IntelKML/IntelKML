@@ -1,41 +1,41 @@
 {
-  "authors": [
-    "IntelKML"
-  ],
-  "category": "IntelKML",
-  "description": "Attacker Tactics",
-  "name": "Attacker Tactics",
-  "source": "Internal",
-  "type": "Adversary Groups",
-  "uuid": "fa9f1387-9303-4a25-b155-d6199a7c2d9a",
-  "values": [
-    {
-      "description": "Template for Group or Actor that will formalize Idealized actor templates",
-      "meta": {
-	"Ideology": "Central tennats of what draws people to this cause",
-	"Activity Level": "Active, Dormant, Inactive",
-	"Level of Resources": "Low, Medium, High",
-	"Prefered AO Terrain": "Urban, Rural, Suburban",
-	"Level of Kinetic Capability": "Low, Medium, High",
-	"Geographic Representation": "Single City, Single State, Regional, US-Nationwide, Global",
-	"Cell Structure Resillience": "Low, Medium, High", 
-        "State Reponse to Activity": "State-prohibited-but-inadequate",
-        "References": [
-          "Unknown"
-        ],
-	"Synonyms": [
-          "Unknown"
-        ],
-	"Key Members": [
-          "Unknown"
-        ],
-	"Triggers": [
-          "Unknown"
-        ],
-      },
-      "uuid": "df68a37e-ce7d-475a-a77d-c26fe8fbfe2f",
-      "value": "Group Template"
-    }
-  ],
-  "version": 5
+   "authors":[
+      "IntelKML"
+   ],
+   "category":"IntelKML",
+   "description":"Attacker Tactics",
+   "name":"Attacker Tactics",
+   "source":"Internal",
+   "type":"Adversary Groups",
+   "uuid":"fa9f1387-9303-4a25-b155-d6199a7c2d9a",
+   "values":[
+      {
+         "description":"Template for Group or Actor that will formalize Idealized actor templates",
+         "meta":{
+            "Ideology":"Central tennats of what draws people to this cause",
+            "Activity Level":"Active, Dormant, Inactive",
+            "Level of Resources":"Low, Medium, High",
+            "Prefered AO Terrain":"Urban, Rural, Suburban",
+            "Level of Kinetic Capability":"Low, Medium, High",
+            "Geographic Representation":"Single City, Single State, Regional, US-Nationwide, Global",
+            "Cell Structure Resillience":"Low, Medium, High",
+            "State Reponse to Activity":"State-prohibited-but-inadequate",
+            "References":[
+               "Unknown"
+            ],
+            "Synonyms":[
+               "Unknown"
+            ],
+            "Key Members":[
+               "Unknown"
+            ],
+            "Triggers":[
+               "Unknown"
+            ]
+         },
+         "uuid":"df68a37e-ce7d-475a-a77d-c26fe8fbfe2f",
+         "value":"Group Template"
+      }
+   ],
+   "version":5
 }
